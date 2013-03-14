@@ -1,9 +1,9 @@
 package se.guava;
 
-public class VodMovie implements Comparable<VodMovie> {
+public class Movie implements Comparable<Movie> {
 
     @Override
-    public int compareTo(final VodMovie o) {
+    public int compareTo(final Movie o) {
         // TODO Auto-generated method stub
         return 0;
     }

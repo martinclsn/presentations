@@ -5,7 +5,7 @@ import com.google.common.collect.Ordering;
 
 public class Person implements Comparable<Person> {
     public String name;
-    public VodMovie favMovie;
+    public Movie favMovie;
 
     @Override
     public int compareTo(final Person o) {
